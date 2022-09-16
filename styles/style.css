@@ -597,6 +597,9 @@ footer{
        }
        .c1 p{
            font-size: 15px;
+           font-weigth:bold;
+           font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        
        }
        .container1{
            margin-left: 30px;
